@@ -11,7 +11,9 @@ Search your msm here.. Check the latest one and look for correct android version
 Now open one of the following links (dependent on your linux kernel version)
 
 3.10: https://source.codeaurora.org/quic/la/kernel/msm-3.10/
+
 3.18: https://source.codeaurora.org/quic/la/kernel/msm-3.18/
+
 4.4: https://source.codeaurora.org/quic/la/kernel/msm-4.4/
 
 Choose the right one and copy it, now go into your kernel folder with a terminal and do
