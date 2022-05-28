@@ -36,6 +36,6 @@ Now just fix the conflicts if there and then do
     
 And
 
-   git merge --continue
+    git merge --continue
     
 ### Congratulation, you have (probably) succesfully merged a new caf tag.
