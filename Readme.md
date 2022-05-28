@@ -33,6 +33,7 @@ Then to do the merge you just have to do
 Now just fix the conflicts if there and then do
 
     git add -A
+And 
     git merge --continue
     
 ### Congratulation, you have (probably) succesfully merged a new caf tag.
