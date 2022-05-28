@@ -1,4 +1,4 @@
-### Merge Tags
+# Merge Tags
 
 First go here:
 
@@ -18,7 +18,7 @@ Choose the right one and copy it, now go into your kernel folder with a terminal
 
     git fetch <repo link> <tag>
 
-# example: 
+## example: 
 
     git fetch https://source.codeaurora.org/quic/la/kernel/msm-3.18/ LA.UM.5.5.r1-05300-8x96.0 
 
