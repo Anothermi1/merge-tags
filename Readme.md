@@ -16,13 +16,15 @@ Now open one of the following links (dependent on your linux kernel version)
 
 4.4: https://source.codeaurora.org/quic/la/kernel/msm-4.4/
 
+4.9: https://source.codeaurora.org/quic/la/kernel/msm-4.9/
+
 Choose the right one and copy it, now go into your kernel folder with a terminal and do
 
     git fetch <repo link> <tag>
 
-## example: 
+## Example: 
 
-    git fetch https://source.codeaurora.org/quic/la/kernel/msm-3.18/ LA.UM.5.5.r1-05300-8x96.0 
+    git fetch https://source.codeaurora.org/quic/la/kernel/msm-4.9/ LA.UM.10.6.2.r1-01200-89xx.0 
 
 Then to do the merge you just have to do
 
@@ -33,4 +35,4 @@ Now just fix the conflicts if there and then do
     git add -A
     git merge --continue
     
-Congratulation, you have (probably) succesfully merged a new caf tag.
+### Congratulation, you have (probably) succesfully merged a new caf tag.
